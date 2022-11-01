@@ -1,0 +1,2 @@
+# translatorUsingDeepl
+practise deepl API
